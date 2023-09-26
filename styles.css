@@ -11,9 +11,16 @@
 	align-items:center;
 	flex-wrap:wrap;
 }
+.item{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-wrap:wrap;
+}
+
 .item-1{
 	background-color:red;
-	widh:100px;
-	heiht:100px;
+	width:100px;
+	height:100px;
 	color:white;
 }
